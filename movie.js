@@ -1,0 +1,1 @@
+alert("Welcome to my page. You're the first person I'm sharing it^^");
