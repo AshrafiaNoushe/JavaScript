@@ -1,0 +1,48 @@
+.Topic {
+    height:100px;
+    width: 200px;
+    border: 1px solid skyblue;
+    margin: 5px;
+    font:italic;
+    border-color: darkslategray;
+    text-align: center;
+    background-color: skyblue;
+    font-family: cursive;
+    color:rgb(158, 122, 75);
+
+}
+#t1{
+    height:100px;
+    width: 500px;
+    margin: 5px;
+    border: 1px solid skyblue;
+    text-align:center;
+    font:italic;
+    border-color: darkslategray;
+    background-color: skyblue;
+    font-family: cursive;
+    color:rgb(158, 122, 75);
+}
+#t2{
+    height:100px;
+    width: 500px;
+    margin: 5px;
+    border: 1px solid skyblue;
+    text-align:center;
+    border-color: darkslategray;
+    font:italic;
+    background-color: skyblue;
+    font-family: cursive;
+    color:rgb(158, 122, 75);
+}
+h1{
+    font-family: cursive; 
+    color:rgb(158, 122, 75);
+}
+body{
+    background-color: pink;
+}
+li{
+    font-family:cursive;
+    color:rgb(158, 122, 75);
+}
