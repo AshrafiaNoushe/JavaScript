@@ -1,0 +1,14 @@
+div{
+    height: 50px;
+    width: 100px;
+    color:aqua;
+    background:rgb(197, 166, 107);
+    border:1px solid rgb(158, 44, 44);
+}
+p{
+    background: wheat;
+    color:azure;
+}
+.box{
+
+}
